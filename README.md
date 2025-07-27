@@ -3,6 +3,14 @@
 
 This project is a real-time vehicle detection and counting system developed using Python and OpenCV. It processes video input (either from a file or a live camera feed) and counts vehicles that pass through a defined virtual line. The system uses background subtraction and contour detection to identify and track moving vehicles in the frame.
 
+Preview
+
+
+https://github.com/user-attachments/assets/d80889fd-5e01-4323-854c-50b03eb5fbba
+
+
+
+
 ## Features
 
 - Processes video frames in real-time
