@@ -39,4 +39,4 @@ https://github.com/user-attachments/assets/d80889fd-5e01-4323-854c-50b03eb5fbba
 vehicle-counter/
 │
 ├── vehicle_counter.py       # Main script for video processing and vehicle counting
-├── traffic.mp4              # Sample input video (optional)
+├── traffic.mp4              # Sample input video 
